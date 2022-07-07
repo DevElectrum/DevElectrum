@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DevElectrum
+- 👋 Hi, I’m Pranav Sarma
 - 👀 I’m interested in Ethical hacking and Aerospace Engineering
 - 🌱 I’m currently learning Web Development
 - 💞️ I’m looking to collaborate on ...
